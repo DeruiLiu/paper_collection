@@ -1,2 +1,2 @@
 # paper_collection
-paper collection in nju
+some paper read in nju
